@@ -123,3 +123,7 @@ abstract class CounterBase with Store {
 }
 
 ```
+
+# Conclusion
+
+I really like MobX :+1:
